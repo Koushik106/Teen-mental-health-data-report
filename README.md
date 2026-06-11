@@ -17,12 +17,14 @@ The original raw dataset was unstructured and messy. Before any analysis or visu
 ### 📈 Visualizations & Dashboards
 
 **Main Dashboard**
-![Dashboard](<img width="795" height="654" alt="dashboards" src="https://github.com/user-attachments/assets/7bce82fe-7732-4c1a-aa57-57581fb1621e" />
-)
+
+<img width="795" height="654" alt="Dashboard" src="https://github.com/user-attachments/assets/3dfb9f77-564c-4829-9aee-615afba9a494" />
+
 
 **Underlying Pivot Tables**
-![Pivot Tables](<img width="622" height="663" alt="pivot tables" src="https://github.com/user-attachments/assets/9ba213b4-c6fc-44d9-b731-f9590e66bac6" />
-)
+
+<img width="622" height="663" alt="Pivot Tables" src="https://github.com/user-attachments/assets/372fa84d-b32e-4b5a-8a13-209c84d1fe6e" />
+
 
 ### 💡 Key Insights Extracted
 * **Sample Size & Demographics:** The analysis encompasses a total of 1200 teenagers spanning ages 13 through 19.
